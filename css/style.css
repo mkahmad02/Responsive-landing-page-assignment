@@ -1,0 +1,33 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+span{
+    color: #FA804C;
+}
+h1{
+    font-size: 40px;
+    font-weight: bold;
+
+}
+h3{
+    color: #FA804C;
+}
+.shoping-image img{
+    width: 100%;
+}
+.casual-shoes{
+    height: 311px;
+    width: 311px;
+    background-color: #F1F1F1;
+    border-radius: 20px;
+    margin: 20px;
+}
+.shoe-card{
+    background-color: white;
+    border: 0;
+    border-radius: 15px;
+}
+.nav-logo img{
+    width: 100%;
+}
